@@ -1,0 +1,19 @@
+English:
+Idea 1
+Suggestion 2
+Thought 3
+
+French:
+Idée 1
+Suggestion 2
+Pensée 3
+
+Arabic:
+فكرة 1
+اقتراح 2
+تفكير 3
+
+Spanish:
+Idea 1
+Sugerencia 2
+Pensamiento 3
